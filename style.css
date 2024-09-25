@@ -1,0 +1,57 @@
+.main.main2 p{
+  color: blue;
+}
+
+.main3>p{
+  color: red;
+}
+
+.main4+.main5 p{
+  color: green;
+}
+
+.six ~p{
+  color: rgb(152, 152, 7);
+}
+.cssunit1percent p{
+  width:100%;
+  background-color: turquoise;
+}
+.p1{
+  width:70%;
+  background-color: aqua;
+}
+.p2{
+  width:50%;
+  background-color: aquamarine;
+}
+.unit2{
+  width:70vw;
+  height:60vh;
+  background-color: rgb(166, 25, 25);
+  color:white;
+  font-size: 80px;
+}
+
+.unit3{
+  width:10em;
+  background-color: rgb(26, 190, 160);
+  color:black;
+  font-size: 5em;
+}
+
+.unit4{
+  width:40rem;
+  height:20rem;
+  color:aqua;
+  background-color: black;
+  font-size:4rem ;
+}
+
+.unit5{
+  width:500px;
+  height:350px;
+  color:rgb(10, 10, 138);
+  background-color: rgb(188, 43, 164);
+  font-size: 70px;
+}
